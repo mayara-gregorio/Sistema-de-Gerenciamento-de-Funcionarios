@@ -1,0 +1,28 @@
+# Nome do Projeto
+
+> Sistema de Gerenciamento de Atividades e Reuniões por funcionário.
+
+---
+
+## Tecnologias utilizadas
+
+- **Backend:** Node.js + Express + TypeORM + SQLite
+- **Frontend:** React + Vite + TypeScript
+- **Autenticação:** JWT (jsonwebtoken) + bcryptjs
+
+---
+
+## Como executar
+
+### Pré-requisitos
+
+
+
+### Backend
+
+```
+O servidor sobe em `http://localhost:3000`.
+
+## Autor
+
+Mayara dos Santos Gregório
