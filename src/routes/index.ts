@@ -7,6 +7,7 @@ import reuniaoRoutes from './reuniaoRoutes'
 import usuarioRoutes from './usuarioRoutes'
 import authRoutes from './authRoutes'
 
+
 const router = Router()
 
 router.use(tarefaRoutes)
